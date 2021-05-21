@@ -1,0 +1,33 @@
+{
+  "name": "Template-Phaser3-TypeScript4-WebPack5",
+  "version": "1.0.0",
+  "description": "A project template for Phaser 3.54 & TypeScript 4.2, using WebPack 5.37 as bundler.",
+  "author": "Andres Garcia Alves",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.dev.config.js",
+    "build": "webpack --config webpack.dev.config.js",
+    "deploy": "webpack --config webpack.prod.config.js"
+  },
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.14.2",
+    "@babel/preset-typescript": "^7.13.0",
+    "awesome-typescript-loader": "^5.2.1",
+    "babel-loader": "^8.2.2",
+    "browser-sync": "^2.26.14",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "html-webpack-plugin": "^5.3.1",
+    "raw-loader": "^4.0.2",
+    "typescript": "^4.2.4",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  },
+  "dependencies": {
+    "phaser": "^3.54.0"
+  }
+}

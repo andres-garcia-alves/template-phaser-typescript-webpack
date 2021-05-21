@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"module": "commonjs",
+		"sourceMap": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true
+	},
+	"files": [
+		"src/game.ts"
+	],
+	"include": [
+        "src/**/*"
+    ],
+	"exclude": [
+        "node_modules",
+		"**/*.spec.ts"
+    ]
+}
