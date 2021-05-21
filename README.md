@@ -1,4 +1,4 @@
-# Template Phaser 3 + Typescript 4 + WebPack 5
+# Template Phaser 3 + TypeScript 4 + WebPack 5
 
 A project template for Phaser 3.54 + TypeScript 4.2, using WebPack 5.37 as bundler, with hot-reload enabled.  
 
