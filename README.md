@@ -44,6 +44,11 @@ If you want to run this project then you need [Node.js](https://nodejs.org) inst
 
 &nbsp;
 
-Please send me your feedback about this template: andres.garcia.alves@gmail.com
+### Version History
 
-Enjoy!
+v1.0 (2021.05.21) - Initial release.  
+
+&nbsp;
+
+This source code is licensed under MIT licence.  
+Please send me your feedback about this template: andres.garcia.alves@gmail.com
